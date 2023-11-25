@@ -1,4 +1,4 @@
-# Repositorio de Estadística Avanzada
+# Repositorio de Big Data
  En este repositorio se encuentran los documentos correspondientes a la clase de Big Data dividos en dos portafolios.
 
 ## Estructura del repositorio
